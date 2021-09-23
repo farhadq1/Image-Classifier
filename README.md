@@ -8,5 +8,7 @@ We trained this classifier, then exported it in our application. We'll be using 
 The project is broken down into multiple steps:
 
 Load and preprocess the image dataset
+
 Train the image classifier on the dataset
+
 Use the trained classifier to predict image content
